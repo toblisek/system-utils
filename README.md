@@ -10,3 +10,8 @@ A collection of lightweight Python scripts for system administration and monitor
 You need the `psutil` library to run these scripts:
 ```bash
 pip install psutil
+Usage
+
+Run the monitor script directly from your terminal:
+Bash
+python monitor.py
